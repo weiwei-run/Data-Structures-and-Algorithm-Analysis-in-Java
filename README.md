@@ -7,4 +7,4 @@
 
 
 
-![Screen Shot 2021-09-02 at 22.53.02](resources/Introduction/ScreenShot2021-09-02at22.53.02.png)
+![Screen Shot 2021-09-02 at 22.53.02](./resources/Introduction/ScreenShot2021-09-02at22.53.02.png)
